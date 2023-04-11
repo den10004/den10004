@@ -1,7 +1,8 @@
 <div align="center">
 <h1>Hi there, I'm Denis <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>Frontend developer</h3><div>
+<h3>Frontend разработчик</h3><div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=den10004&theme=github-light&locale=ru&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ### Мой стек технологий
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
