@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi there, I'm Denis <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>Моё порфолио https://den10004.github.io/portfolio/ </h3>
+
 <h3>Frontend разработчик</h3><div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=den10004&theme=github-light&locale=ru&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
